@@ -119,7 +119,7 @@ html {
     display: flex;
     flex-direction: row;
 }
-.rate-us {
+.rate-us{
     font-size: 15px;
     color: #FFFF00;
 }
