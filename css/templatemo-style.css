@@ -121,12 +121,12 @@ html {
 }
 .rate-us {
     font-size: 15px;
-    color: yellow;
+    color: #FFFF00;
 }
 .form-control {
     margin: 15px;
     height: 30px;
-    width: 50px;
+    width: 30px;
 }
 
 .tm-btn {
