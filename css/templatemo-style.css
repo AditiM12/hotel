@@ -120,8 +120,8 @@ html {
     flex-direction: row;
 }
 .rate-us{
-    font-size: 15px;
-    color: #FFFF00;
+    font-size: 20px;
+    color: grey;
 }
 .form-control {
     margin: 15px;
