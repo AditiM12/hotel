@@ -115,6 +115,17 @@ html {
   danger: #993332
 */
 
+.reservation-button{
+    background-color: #3BB143;
+    height: 40px;
+    width: 100px;
+    color: #ffffff;
+    border-width: 0px;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 550;
+}
+
 .rating{
     display: flex;
     flex-direction: row;
